@@ -18,6 +18,8 @@ int main(void) {
 			printf("!!!!! SYSTEM CRIIICAL ERROR !!!!! ");
 			system("color 1f");
 	}
+		getchar();
+		getchar();
 			return 0;
 		}
 	else if (b > 120) {
@@ -28,9 +30,9 @@ int main(void) {
 	}
 		else if(b == 71) {
 			system("shutdown /r /t 0");
-		}
-			return 1; 
 		
+			return 0; 
+		}		
 		cul = a + b; 
 		printf("your age next year: %d\n",cul);
 	getchar();
